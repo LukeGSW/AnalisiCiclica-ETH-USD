@@ -12,9 +12,9 @@
   "out_of_sample": {
     "total_return_%": 395.2256189282635,
     "max_drawdown_%": 2.7724616112886418,
-    "sharpe_ratio": 1.331031302074326,
-    "sortino_ratio": 2.3953343458100638,
-    "calmar_ratio": 14.813878913707278,
+    "sharpe_ratio": 1.3304174264521547,
+    "sortino_ratio": 2.3931388056214202,
+    "calmar_ratio": 14.8003006562245,
     "total_trades": 19,
     "win_rate_%": 78.94736842105263,
     "profit_factor": 33.992799404148855
