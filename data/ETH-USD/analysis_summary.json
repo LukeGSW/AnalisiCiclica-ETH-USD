@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-09-29T21:39:17.075877",
+  "timestamp": "2025-09-30T21:39:28.497485",
   "ticker": "ETH-USD",
-  "data_points": 3650,
+  "data_points": 3651,
   "latest_signal": {
-    "date": "2025-09-28",
+    "date": "2025-09-29",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 4 (Discesa -> Minimo)",
-    "phase_value": 2.6357405605123705,
-    "oscillator_value": -199.75134332292328,
-    "signal_strength": 15.47087725358648,
+    "phase_value": 2.8616547914095607,
+    "oscillator_value": -222.17992248997507,
+    "signal_strength": 15.456052736062775,
     "confidence": "LOW",
-    "price": 4141.4765020661,
-    "timestamp": "2025-09-29T21:39:15.645848"
+    "price": 4217.3415851884,
+    "timestamp": "2025-09-30T21:39:26.877952"
   },
   "backtest_metrics": {
     "total_return_%": 374.22557638507794,
     "max_drawdown_%": 3.1797680690165016,
-    "sharpe_ratio": 1.21425775014068,
-    "sortino_ratio": 2.039254407218528,
-    "calmar_ratio": 12.713882157911385,
+    "sharpe_ratio": 1.2137009375795456,
+    "sortino_ratio": 2.0373937736352996,
+    "calmar_ratio": 12.702281900468035,
     "total_trades": 18,
     "win_rate_%": 77.77777777777779,
     "profit_factor": 32.2399075651101
