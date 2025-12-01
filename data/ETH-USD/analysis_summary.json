@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-11-30T21:40:08.475841",
+  "timestamp": "2025-12-01T21:39:14.786257",
   "ticker": "ETH-USD",
-  "data_points": 3713,
+  "data_points": 3714,
   "latest_signal": {
-    "date": "2025-11-30",
+    "date": "2025-12-01",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.1582818290429886,
-    "oscillator_value": -457.3293340626583,
-    "signal_strength": 59.15472345039619,
+    "phase_value": -2.1406854152178125,
+    "oscillator_value": -426.77613896248295,
+    "signal_strength": 56.8682083730987,
     "confidence": "MEDIUM",
-    "price": 2989.784423828125,
-    "timestamp": "2025-11-30T21:40:06.824174"
+    "price": 2823.272705078125,
+    "timestamp": "2025-12-01T21:39:13.135870"
   },
   "backtest_metrics": {
-    "total_return_%": 363.07004142774895,
+    "total_return_%": 363.76955658894457,
     "max_drawdown_%": 4.063764882032778,
-    "sharpe_ratio": 1.1979718839695155,
-    "sortino_ratio": 1.7519493263163513,
-    "calmar_ratio": 9.624815084402824,
+    "sharpe_ratio": 1.1989908906416205,
+    "sortino_ratio": 1.7501326541060351,
+    "calmar_ratio": 9.623613949258877,
     "total_trades": 17,
     "win_rate_%": 76.47058823529412,
-    "profit_factor": 22.08137543383696
+    "profit_factor": 22.121615399094075
   },
   "cycle_analysis": {
     "dominant_period": 126.0,
