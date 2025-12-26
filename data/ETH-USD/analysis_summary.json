@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-25T21:41:56.049686",
+  "timestamp": "2025-12-26T21:41:31.452081",
   "ticker": "ETH-USD",
-  "data_points": 3738,
+  "data_points": 3739,
   "latest_signal": {
-    "date": "2025-12-25",
+    "date": "2025-12-26",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -1.9305659875494963,
-    "oscillator_value": -63.96029631014062,
-    "signal_strength": 13.627690097169525,
+    "phase_value": -1.9313590192760726,
+    "oscillator_value": -63.93980793051742,
+    "signal_strength": 13.539346478976297,
     "confidence": "LOW",
-    "price": 2946.89306640625,
-    "timestamp": "2025-12-25T21:41:54.378277"
+    "price": 2964.87890625,
+    "timestamp": "2025-12-26T21:41:29.695314"
   },
   "backtest_metrics": {
     "total_return_%": 322.8665720693008,
